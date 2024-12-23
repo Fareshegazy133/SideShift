@@ -1,6 +1,6 @@
 // Copyright of SideShift.
 
-#include "SideShift_Player.h"
+#include "Player/SideShift_Player.h"
 
 // Sets default values
 ASideShift_Player::ASideShift_Player()
@@ -14,7 +14,6 @@ ASideShift_Player::ASideShift_Player()
 void ASideShift_Player::BeginPlay()
 {
 	Super::BeginPlay();
-	
 
 }
 
